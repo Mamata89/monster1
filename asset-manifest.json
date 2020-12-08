@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Mamata89.github.io/monster1/static/css/main.8459afe9.chunk.css",
+    "main.js": "/Mamata89.github.io/monster1/static/js/main.8d10a110.chunk.js",
+    "main.js.map": "/Mamata89.github.io/monster1/static/js/main.8d10a110.chunk.js.map",
+    "runtime-main.js": "/Mamata89.github.io/monster1/static/js/runtime-main.6a52dba0.js",
+    "runtime-main.js.map": "/Mamata89.github.io/monster1/static/js/runtime-main.6a52dba0.js.map",
+    "static/js/2.62c2cd20.chunk.js": "/Mamata89.github.io/monster1/static/js/2.62c2cd20.chunk.js",
+    "static/js/2.62c2cd20.chunk.js.map": "/Mamata89.github.io/monster1/static/js/2.62c2cd20.chunk.js.map",
+    "index.html": "/Mamata89.github.io/monster1/index.html",
+    "precache-manifest.21674c6e044fc8247560f1bbd6c9d3ba.js": "/Mamata89.github.io/monster1/precache-manifest.21674c6e044fc8247560f1bbd6c9d3ba.js",
+    "service-worker.js": "/Mamata89.github.io/monster1/service-worker.js",
+    "static/css/main.8459afe9.chunk.css.map": "/Mamata89.github.io/monster1/static/css/main.8459afe9.chunk.css.map",
+    "static/js/2.62c2cd20.chunk.js.LICENSE": "/Mamata89.github.io/monster1/static/js/2.62c2cd20.chunk.js.LICENSE",
+    "static/media/logo.svg": "/Mamata89.github.io/monster1/static/media/logo.ee7cd8ed.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6a52dba0.js",
+    "static/js/2.62c2cd20.chunk.js",
+    "static/css/main.8459afe9.chunk.css",
+    "static/js/main.8d10a110.chunk.js"
+  ]
+}
